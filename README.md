@@ -1,8 +1,21 @@
-# Public Tech Gathering
+# Who we think we are
 
-## About
+Public Tech is a decentralized gathering of humans bent on creating technology for public good. Hmmm, so what does that even mean?
 
-Technology draws from historical contributions from different sectors of society to be the ppowerful force it is for each generation. When private entities use free public contribution to not only profit from it but sadly to deny the public access to the benefits of such a technology, there is need to keep vigil on how the public utilizes technology for progress for all. 
+I know, it may come off as something a PR agency would script for a first round pitch. 
 
-## Location
-We are distributed across the globe and connect in a rugged but <antifragile> options to connect and work for the public good. 
+*Take 2* 
+
+We are a group of people (and scripts) working towards equality of all while expanding the opportunities for individual self-determination using technical and legal tools. 
+
+We aspire to aggregate human rights respecting tools and laws, train others on how to use them all while creating a safe space for both creators and users. 
+
+Technology is eternally work in progress that draws from historical contributions of different elements of society. Our role in the process, we safely assume, is to protect the historical gains while pushing the possibilities of their funtionality with a human perspective to them. 
+
+## So you are a non-profit?
+
+It depends. If by profit you mean net benefit to society, then we are a proud for-profit organization. However, if by profit you mean appropriation of public resources to private individuals through a complex cover up called business, then we are a big fat non-profit. 
+
+## Contact Us
+
+Our tangible solid states are distributed across the globe but our geist is fast approaching singularity. Reach us on contact@publicte.ch 
