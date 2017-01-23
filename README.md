@@ -18,4 +18,4 @@ It depends. If by profit you mean net benefit to society, then we are a proud fo
 
 ## Contact Us
 
-Our tangible solid states are distributed across the globe but our geist is fast approaching singularity. Reach us on contact@publicte.ch 
+Our tangible solid states are distributed across the globe but our geist is fast approaching singularity. Reach us on **contact@publicte.ch** 
